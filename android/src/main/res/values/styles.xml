@@ -1,0 +1,4 @@
+<resources>
+    <!-- Apps restyle the menu by redefining this theme. -->
+    <style name="Theme.RNContextMenu" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
