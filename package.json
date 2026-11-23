@@ -1,6 +1,6 @@
 {
   "name": "@27appstudio/react-native-system-menu",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Native context menus for React Native: SwiftUI .contextMenu on iOS, Material 3 popup menus at the finger on Android.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
